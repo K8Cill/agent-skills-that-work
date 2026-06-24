@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://shieldcn.dev/header/gradient.svg?title=agent-skills-that-work&subtitle=A%20personal%20agent%20skills%20library%20for%20Claude%2C%20Codex%20%26%20Copilot&theme=violet&font=geist" alt="agent-skills-that-work" />
+  <img alt="Agent Skills that work" src="https://shieldcn.dev/header/glow.svg?title=Agent+Skills+that+work&subtitle=A+personal+agent+skills+library+for+Claude%2C+Codex+%26+other+compatible+models&logo=lu%3ACode&logoColor=8b5cf6&mode=dark&theme=violet&font=space-grotesk">
 </p>
 
 <p align="center">
