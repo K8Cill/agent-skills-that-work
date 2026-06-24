@@ -1,0 +1,25 @@
+{
+  "name": "agent-skills-that-work",
+  "owner": {
+    "name": "Sasa Vasic",
+    "email": "hi@x00.ai",
+    "url": "https://linktr.ee/niceguysash"
+  },
+  "metadata": {
+    "description": "Personal agent skills library by niceguysash.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "agent-skills-that-work",
+      "source": "./",
+      "description": "A curated, version-controlled library of personal agent skills for Claude, Codex, and Copilot.",
+      "version": "0.1.0",
+      "license": "MIT",
+      "strict": false,
+      "skills": [
+        "./skills/skill-authoring"
+      ]
+    }
+  ]
+}

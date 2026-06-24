@@ -1,0 +1,14 @@
+{
+  "name": "agent-skills-that-work",
+  "version": "0.1.0",
+  "description": "A curated, version-controlled library of personal agent skills for Claude, Codex, and Copilot.",
+  "author": {
+    "name": "Sasa Vasic",
+    "email": "hi@x00.ai",
+    "url": "https://linktr.ee/niceguysash"
+  },
+  "homepage": "https://github.com/k8cill/agent-skills-that-work",
+  "repository": "https://github.com/k8cill/agent-skills-that-work",
+  "license": "MIT",
+  "keywords": ["agent-skills", "claude", "codex", "copilot", "skills"]
+}
